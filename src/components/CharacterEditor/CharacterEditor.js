@@ -88,6 +88,8 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+
+      <div className={styles.perspectiveDecoration}></div>
     </main>
   );
 }
