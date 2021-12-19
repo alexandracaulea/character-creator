@@ -1,5 +1,7 @@
 # Character Creation Workshop
 
+**Part of CSS for JavaScript developers course (https://css-for-js.dev/)**
+
 In this workshop, you'll build a Sims-style character creation screen.
 
 
